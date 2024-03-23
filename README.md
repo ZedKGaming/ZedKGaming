@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ZedKGaming
-- 👀 I’m interested in game development with Unreal Engine.
+- 👀 I’m interested in game development with Unreal Engine and Unreal Editor for Fortnite.
 - 🌱 I’m currently learning game development.
 - 💞️ I’m looking to collaborate on game development.
-- 📫 How to reach me: Discord: ZedKGaming#0429
+- 📫 How to reach me: Discord: @ItsZedK
 
 <!---
 ZedKGaming/ZedKGaming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
